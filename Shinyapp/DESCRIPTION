@@ -1,15 +1,12 @@
 Encoding: UTF-8
 Package: Shinyapp
 Type: Package
-Title: ******
+Title:  Create a Shiny application using Five package
 Version: 1.0
 Date: 2024-10-08
 Author: Quanlin Ren <renqu711@student.liu.se>, Qinxia Zhang <qinzh916@student.liu.se>
 Maintainer: Quanlin Ren <renqu711@student.liu.se>
-Description: ********
+Description: Create a new repository on github for a Shiny application. Create a simple Shiny application that makes it possible to interactively analyze data using my API package.
 License: GPL-3
 RoxygenNote: 7.3.2
-Suggests:
-    testthat
-
 
